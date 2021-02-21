@@ -1,4 +1,4 @@
-# Projects
+# Breast Cancer Classification
 
 In this project, I am tackling a binary classification problem using the Breast Cancer Wisconsin Data Set.
 
